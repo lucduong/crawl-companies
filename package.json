@@ -1,0 +1,18 @@
+{
+  "name": "crawl-companies",
+  "version": "1.0.0",
+  "description": "Crawl Companies from some awesome websites",
+  "main": "index.js",
+  "repository": "git@github.com:lucduong/crawl-companies.git",
+  "author": "Luc <luc@ltv.vn>",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "connect-mongo": "^1.3.2",
+    "lodash": "^4.17.4",
+    "moment": "^2.18.1",
+    "mongoose": "^4.11.11",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.1"
+  }
+}
